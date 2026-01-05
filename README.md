@@ -13,16 +13,7 @@
 
 ## Tech Stack ⚒️
 
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/>
-<img src="https://cdn.simpleicons.org/css/663399" height="40"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/>
-<img src="https://cdn.simpleicons.org/node.js/5FA04E" height="40"/>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/>
-<img src="https://cdn.simpleicons.org/git/f05032" height="40"/>
-<img src="https://cdn.simpleicons.org/github/181717" height="40"/>
-<img src="https://cdn.simpleicons.org/npm/cb3837" height="40"/>
-<img src="https://cdn.simpleicons.org/insomnia/4000bf" height="40"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/><img src="https://cdn.simpleicons.org/css/663399" height="40"/><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/><img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/><img src="https://cdn.simpleicons.org/node.js/5FA04E" height="40"/><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/><img src="https://cdn.simpleicons.org/git/f05032" height="40"/><img src="https://cdn.simpleicons.org/github/181717" height="40"/><img src="https://cdn.simpleicons.org/npm/cb3837" height="40"/><img src="https://cdn.simpleicons.org/insomnia/4000bf" height="40"/>
 
 ## Projects 💼
 
