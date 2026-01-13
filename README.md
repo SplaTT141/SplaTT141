@@ -70,6 +70,12 @@
 
   🔗 Repo: https://github.com/SplaTT141/random-pic | 🌐 Demo: https://splatt141.github.io/random-pic/
 
+## Now Working On 🚧
+
+- 🛒 Full-Stack **Vanilla JavaScript E-Commerce SPA**
+- 🛠️ Tech: JavaScript, Express.js, Node.js, MySQL
+- 🔄 Actively developing authentication, REST API and core e-commerce features
+
 ## Reach Me ✍️
 
 - 📧 ernest.ivanov01@gmail.com
