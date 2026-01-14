@@ -74,7 +74,6 @@
 
 - 🛒 Full-Stack **Vanilla JavaScript E-Commerce SPA**
 - 🛠️ Tech: JavaScript, Express.js, Node.js, MySQL
-- 🔄 Actively developing authentication, REST API and core e-commerce features
 
 ## Reach Me ✍️
 
