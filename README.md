@@ -28,7 +28,7 @@
 
 ### Frontend Project – **Sofax**
 
-- 🛠️ Tech: React, JavaScript, CSS
+- 🛠️ Tech: JavaScript, CSS
 - 📝 Group frontend project developed by a team of 4 people
 - 👤 My responsibilities:
   - Building UI components
