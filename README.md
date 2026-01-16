@@ -21,8 +21,8 @@
 
 - 🛠️ Tech: React, Node.js, Express, MySQL, Bootstrap
 - 📝 Full-stack app with authentication and CRUD features
-- 🔗 Repo: https://github.com/SplaTT141/kirpykla
-- 🌐 Demo: https://kirpykla.netlify.app/
+- 🔗 Repository: https://github.com/SplaTT141/kirpykla
+- 🌐 Live Demo: https://kirpykla.netlify.app/
 
 ---
 
