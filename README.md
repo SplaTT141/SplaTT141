@@ -72,8 +72,8 @@
 
 ## Now Working On 🚧
 
-- 🛒 Full-Stack **Vanilla JavaScript E-Commerce SPA**
-- 🛠️ Tech: JavaScript, Express.js, Node.js, MySQL
+- 🛒 Full-Stack **E-Commerce**
+- 🛠️ Tech: React, Tailwind, JavaScript, Express.js, Node.js, MySQL
 
 ## Reach Me ✍️
 
